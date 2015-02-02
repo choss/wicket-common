@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/org/apache/wicket/wicket-core/6.18.0/wicket-core-6.18.0.jar" sourcepath="M2_REPO/org/apache/wicket/wicket-core/6.18.0/wicket-core-6.18.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/media/development/m2/repo/org/apache/wicket/wicket-core/6.18.0/wicket-core-6.18.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/org/apache/wicket/wicket-util/6.18.0/wicket-util-6.18.0.jar" sourcepath="M2_REPO/org/apache/wicket/wicket-util/6.18.0/wicket-util-6.18.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/media/development/m2/repo/org/apache/wicket/wicket-util/6.18.0/wicket-util-6.18.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4.jar" sourcepath="M2_REPO/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/media/development/m2/repo/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/org/apache/wicket/wicket-request/6.18.0/wicket-request-6.18.0.jar" sourcepath="M2_REPO/org/apache/wicket/wicket-request/6.18.0/wicket-request-6.18.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/media/development/m2/repo/org/apache/wicket/wicket-request/6.18.0/wicket-request-6.18.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/org/apache/wicket/wicket-extensions/6.18.0/wicket-extensions-6.18.0.jar" sourcepath="M2_REPO/org/apache/wicket/wicket-extensions/6.18.0/wicket-extensions-6.18.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/media/development/m2/repo/org/apache/wicket/wicket-extensions/6.18.0/wicket-extensions-6.18.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
